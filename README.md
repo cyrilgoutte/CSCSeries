@@ -10,8 +10,8 @@ Each month, DT will invite an (international, Canadian, or local) external exper
 
 Past or Confirmed Speakers:
 
-0. Yuhong Guo, Canada Research Chair in Machine Learning, Carleton University\ 
-Date: August 04, 2017\ 
+0. Yuhong Guo, Canada Research Chair in Machine Learning, Carleton University\
+Date: August 04, 2017\
 Title: Information Adaptation across Categories: Representation Learning for Zero-Shot Classification
  
 1. Anna Goldenberg, SickKids Research Institute, Vector Institute, University of Toronto\ 
