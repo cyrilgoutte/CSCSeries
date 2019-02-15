@@ -42,7 +42,22 @@ Title: AI's Successes and Challenges - a Personal Perspective
 Date: October 19, 2018\
 Title: Probabilistic Generative Deep Learning
 
-8. Brian Ingalls, Department of Applied Mathematics, University of Waterloo\
-Date: TBD\
-Title: TBD 
+8. Tamara Broderick, MIT Computer Science and Artificial Intelligence Laboratory (CSAIL), Department of Electrical Engineering and Computer Science, MIT\
+Date: December 10, 2018\
+Title: Automated Scalable Bayesian Inference via Data Summarization
 
+9. Yuxi Li, Attain AI Inc. Edmonton\
+Date: January 25, 2019\
+Title: Deep Reinforcement Learning: Challenges and Opportunities
+
+10. Guillaume Bourque, Department of Human Genetics, Genome Quebec Innovation Center, McGill University\
+Date: February 13, 2019 (rescheduled due to snow storm)\
+Title: Scalable Methods for Genomic Analyses and the McGill Initiative in Computational Medicine
+
+Agreed, need to schedule time:
+
+11. Brian Ingalls, Department of Applied Mathematics, University of Waterloo
+
+12. Graham Taylor (https://www.gwtaylor.ca/)
+
+13. Blake Richards (http://linclab.org/)
