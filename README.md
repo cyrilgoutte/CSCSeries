@@ -51,8 +51,12 @@ Date: January 25, 2019\
 Title: Deep Reinforcement Learning: Challenges and Opportunities
 
 10. Guillaume Bourque, Department of Human Genetics, Genome Quebec Innovation Center, McGill University\
-Date: February 13, 2019 (rescheduled due to snow storm)\
+Date: March 26, 2019 (rescheduled from February 13, 2019 due to snow storm)\
 Title: Scalable Methods for Genomic Analyses and the McGill Initiative in Computational Medicine
+
+11. Joseph Emerson, Institute of Quantum Computing, and Dept of Applied Mathematics, University of Waterloo\
+Date:May 24, 2019\
+Title: Towards reliable quantum computing on error-prone near-term hardware
 
 11. Graham Taylor, CRC of Engineering, University of Guelph\
 Date: June 7, 2019\
