@@ -54,6 +54,22 @@ Title: Deep Reinforcement Learning: Challenges and Opportunities
 Date: February 13, 2019 (rescheduled due to snow storm)\
 Title: Scalable Methods for Genomic Analyses and the McGill Initiative in Computational Medicine
 
+11. Graham Taylor, CRC of Engineering, University of Guelph\
+Date: June 7, 2019\
+Title: Batch Normalization is a Cause of Adversarial Vulnerability
+
+11. Rudolf Mathar, RWTH Aachen, Germany\
+Date: June 12, 2019\
+Title: An Information Theoretic View on Learning of Artificial Neural Networks
+
+11. Micha Livne, Computer Science, University of Toronto, and Vector Institute\
+Date: July 11, 2019\
+Title: MIM: Mutual Information Machine
+
+11. Scott Lowe, Dalhousie University, Halifax\
+Date: July 24, 2019\
+Title: LogAvgExp Provides a Principled and Performant Pooling Operator
+
 11. Oliver van Kaick, Carleton University, Ottawa\
 Date: October 9, 2019\
 Title: Discovery of Object Functionality from Motion and Interactions
@@ -66,7 +82,5 @@ Title: Explain Yourself - A Semantic Stack for Artificial Intelligence
 Agreed, need to schedule time:
 
 Brian Ingalls, Department of Applied Mathematics, University of Waterloo
-
-Graham Taylor (https://www.gwtaylor.ca/)
 
 Blake Richards (http://linclab.org/)
