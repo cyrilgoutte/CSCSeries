@@ -54,14 +54,14 @@ Title: Deep Reinforcement Learning: Challenges and Opportunities
 Date: February 13, 2019 (rescheduled due to snow storm)\
 Title: Scalable Methods for Genomic Analyses and the McGill Initiative in Computational Medicine
 
-1X. Randy Goebel, Computing Science, University of Alberta, and Alberta Machine Intelligence Institute (AMII)\
+11. Randy Goebel, Computing Science, University of Alberta, and Alberta Machine Intelligence Institute (AMII)\
 Date: October 18, 2019\
 Title: Explain Yourself - A Semantic Stack for Artificial Intelligence
 
 Agreed, need to schedule time:
 
-11. Brian Ingalls, Department of Applied Mathematics, University of Waterloo
+Brian Ingalls, Department of Applied Mathematics, University of Waterloo
 
-12. Graham Taylor (https://www.gwtaylor.ca/)
+Graham Taylor (https://www.gwtaylor.ca/)
 
-13. Blake Richards (http://linclab.org/)
+Blake Richards (http://linclab.org/)
