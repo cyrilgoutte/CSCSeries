@@ -10,6 +10,14 @@ Each month, DT will invite an (international, Canadian, or local) external exper
 
 Past or Confirmed Speakers:
 
+* Randy Goebel, Computing Science, University of Alberta, and Alberta Machine Intelligence Institute (AMII)\
+Date: October 18, 2019\
+Title: Explain Yourself - A Semantic Stack for Artificial Intelligence
+
+* Oliver van Kaick, Carleton University, Ottawa\
+Date: October 9, 2019\
+Title: Discovery of Object Functionality from Motion and Interactions
+
 0. Yuhong Guo, Canada Research Chair in Machine Learning, Carleton University\
 Date: August 04, 2017\
 Title: Information Adaptation across Categories: Representation Learning for Zero-Shot Classification
@@ -73,14 +81,6 @@ Title: MIM: Mutual Information Machine
 11. Scott Lowe, Dalhousie University, Halifax\
 Date: July 24, 2019\
 Title: LogAvgExp Provides a Principled and Performant Pooling Operator
-
-11. Oliver van Kaick, Carleton University, Ottawa\
-Date: October 9, 2019\
-Title: Discovery of Object Functionality from Motion and Interactions
-
-11. Randy Goebel, Computing Science, University of Alberta, and Alberta Machine Intelligence Institute (AMII)\
-Date: October 18, 2019\
-Title: Explain Yourself - A Semantic Stack for Artificial Intelligence
 
 
 Agreed, need to schedule time:
