@@ -18,70 +18,70 @@ Title: Explain Yourself - A Semantic Stack for Artificial Intelligence
 Date: October 9, 2019\
 Title: Discovery of Object Functionality from Motion and Interactions
 
-0. Yuhong Guo, Canada Research Chair in Machine Learning, Carleton University\
-Date: August 04, 2017\
-Title: Information Adaptation across Categories: Representation Learning for Zero-Shot Classification
- 
-1. Anna Goldenberg, SickKids Research Institute, Vector Institute, University of Toronto\
-Date: February 09, 2018\
-Title: Maximizing the Impact of Machine Learning When Data is Scarce: The Case of Complex Human Diseases
-    
-2. Pill De Luna, Department of Materials Science & Engineering, University of Toronto\
-Date: May 18, 2018\
-Title: Accelerated Design of Materials for Artificial Photosynthesis and Solar Fuels
-    
-3. Mads Karen, Ottawa Institute of Systems Biology, University of Ottawa\
-Date: May 31, 2018\
-Title: Intelligent Design: Synthetic Biology and the Evolution of Biotechnology
- 
-4. Peter Wittek, Vector Institute, Creative Destruction Lab, University of Toronto\
-Date: June 28, 2018\
-Title: Practical Quantum-Enhanced Machine Learning
-
-5. Alexandre Payeur, Brain and Mind Research Institute, University of Ottawa\
-Date: August 23, 3018\
-Title: Backpropagating Errors with Burst Coding
-
-6. Stan Matwin, Director of the Institute for Big Data Analytics, Dalhousie University\
-Date: October 19, 2018\
-Title: AI's Successes and Challenges - a Personal Perspective
-
-7. Pascal Poupart, David R. Cheriton School of Computer Science, University of Waterloo\
-Date: October 19, 2018\
-Title: Probabilistic Generative Deep Learning
-
-8. Tamara Broderick, MIT Computer Science and Artificial Intelligence Laboratory (CSAIL), Department of Electrical Engineering and Computer Science, MIT\
-Date: December 10, 2018\
-Title: Automated Scalable Bayesian Inference via Data Summarization
-
-9. Yuxi Li, Attain AI Inc. Edmonton\
-Date: January 25, 2019\
-Title: Deep Reinforcement Learning: Challenges and Opportunities
-
-10. Guillaume Bourque, Department of Human Genetics, Genome Quebec Innovation Center, McGill University\
-Date: March 26, 2019 (rescheduled from February 13, 2019 due to snow storm)\
-Title: Scalable Methods for Genomic Analyses and the McGill Initiative in Computational Medicine
-
-11. Joseph Emerson, Institute of Quantum Computing, and Dept of Applied Mathematics, University of Waterloo\
-Date:May 24, 2019\
-Title: Towards reliable quantum computing on error-prone near-term hardware
-
-11. Graham Taylor, CRC of Engineering, University of Guelph\
-Date: June 7, 2019\
-Title: Batch Normalization is a Cause of Adversarial Vulnerability
-
-11. Rudolf Mathar, RWTH Aachen, Germany\
-Date: June 12, 2019\
-Title: An Information Theoretic View on Learning of Artificial Neural Networks
-
-11. Micha Livne, Computer Science, University of Toronto, and Vector Institute\
-Date: July 11, 2019\
-Title: MIM: Mutual Information Machine
-
-11. Scott Lowe, Dalhousie University, Halifax\
+* Scott Lowe, Dalhousie University, Halifax\
 Date: July 24, 2019\
 Title: LogAvgExp Provides a Principled and Performant Pooling Operator
 
+* Micha Livne, Computer Science, University of Toronto, and Vector Institute\
+Date: July 11, 2019\
+Title: MIM: Mutual Information Machine
+
+* Rudolf Mathar, RWTH Aachen, Germany\
+Date: June 12, 2019\
+Title: An Information Theoretic View on Learning of Artificial Neural Networks
+
+* Graham Taylor, CRC of Engineering, University of Guelph\
+Date: June 7, 2019\
+Title: Batch Normalization is a Cause of Adversarial Vulnerability
+
+* Joseph Emerson, Institute of Quantum Computing, and Dept of Applied Mathematics, University of Waterloo\
+Date:May 24, 2019\
+Title: Towards reliable quantum computing on error-prone near-term hardware
+
+* Guillaume Bourque, Department of Human Genetics, Genome Quebec Innovation Center, McGill University\
+Date: March 26, 2019 (rescheduled from February 13, 2019 due to snow storm)\
+Title: Scalable Methods for Genomic Analyses and the McGill Initiative in Computational Medicine
+
+* Yuxi Li, Attain AI Inc. Edmonton\
+Date: January 25, 2019\
+Title: Deep Reinforcement Learning: Challenges and Opportunities
+
+* Tamara Broderick, MIT Computer Science and Artificial Intelligence Laboratory (CSAIL), Department of Electrical Engineering and Computer Science, MIT\
+Date: December 10, 2018\
+Title: Automated Scalable Bayesian Inference via Data Summarization
+
+* Pascal Poupart, David R. Cheriton School of Computer Science, University of Waterloo\
+Date: October 19, 2018\
+Title: Probabilistic Generative Deep Learning
+
+* Stan Matwin, Director of the Institute for Big Data Analytics, Dalhousie University\
+Date: October 19, 2018\
+Title: AI's Successes and Challenges - a Personal Perspective
+
+* Alexandre Payeur, Brain and Mind Research Institute, University of Ottawa\
+Date: August 23, 3018\
+Title: Backpropagating Errors with Burst Coding
+
+* Peter Wittek, Vector Institute, Creative Destruction Lab, University of Toronto\
+Date: June 28, 2018\
+Title: Practical Quantum-Enhanced Machine Learning
+
+* Mads Karen, Ottawa Institute of Systems Biology, University of Ottawa\
+Date: May 31, 2018\
+Title: Intelligent Design: Synthetic Biology and the Evolution of Biotechnology
+ 
+* Pill De Luna, Department of Materials Science & Engineering, University of Toronto\
+Date: May 18, 2018\
+Title: Accelerated Design of Materials for Artificial Photosynthesis and Solar Fuels
+    
+* Anna Goldenberg, SickKids Research Institute, Vector Institute, University of Toronto\
+Date: February 09, 2018\
+Title: Maximizing the Impact of Machine Learning When Data is Scarce: The Case of Complex Human Diseases
+    
+* Yuhong Guo, Canada Research Chair in Machine Learning, Carleton University\
+Date: August 04, 2017\
+Title: Information Adaptation across Categories: Representation Learning for Zero-Shot Classification
+ 
 
 Agreed, need to schedule time:
 
